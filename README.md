@@ -1,0 +1,2 @@
+# FiAi
+First Attempt Ai
